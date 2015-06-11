@@ -1,0 +1,14 @@
+{
+  "name": "ng-digest-logger",
+  "version": "0.1.0",
+  "main": [
+    "./dist/ngDigestLogger.js",
+    "./dist/ngDigestLogger.min.js"
+  ],
+  "ignore": [
+    "/src"
+  ],
+  "dependencies": {
+    "angular": "^1.3.0"
+  }
+}
