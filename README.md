@@ -17,12 +17,12 @@ Enjoy!
 
 ## Legeng
 
-    `> $apply` - call $scope.$apply function
-    `> $digest` - call $scope.$digest function (usually in $apply function)
-    `< $digest` - $scope.$digest call finished
-    `< $apply` - $scope.$apply call finished
-    `. $digest` - iteration of digest loop
-    `. $postDigest` - end of digest digest
+`> $apply` - call of `$scope.$apply` function
+`> $digest` - call of `$scope.$digest` function (usually in `$scope.$apply` function)
+`< $digest` - `$scope.$digest` call finished
+`< $apply` - `$scope.$apply` call finished
+`. $digest` - iteration of digest loop
+`. $postDigest` - end of digest loop
     
     
 
