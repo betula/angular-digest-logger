@@ -1,2 +1,2 @@
 
-var ng = angular.module('ngDigestLogger', []);
+var ng = angular.module('digestLogger', []);
