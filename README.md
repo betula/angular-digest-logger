@@ -15,15 +15,15 @@ document.cookie = '--digest-logger=;max-age=0';
 F5
 Enjoy!
 
-## Legeng
+## Legend
 
-`> $apply` - call of `$scope.$apply` function
+`> $apply` - log `$scope.$apply` function call
 
-`> $digest` - call of `$scope.$digest` function (usually in `$scope.$apply` function)
+`> $digest` - log `$scope.$digest` function call (usually in `$scope.$apply` function call)
 
-`< $digest` - `$scope.$digest` call finished
+`< $digest` - log `$scope.$digest` call finished
 
-`< $apply` - `$scope.$apply` call finished
+`< $apply` - log `$scope.$apply` call finished
 
 `. $digest` - iteration of digest loop
 
