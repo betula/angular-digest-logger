@@ -33,7 +33,8 @@ Enjoy!
 
 You can install this package locally either with bower.
 
-    # To install latest formal release 
-    npm install angular-digest-logger
-
+```bash
+# To install latest formal release 
+npm install angular-digest-logger
+```
 
