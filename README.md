@@ -29,5 +29,11 @@ Enjoy!
 
 `. $postDigest` - end of digest loop
     
-    
+## Installing
+
+You can install this package locally either with bower.
+
+    # To install latest formal release 
+    npm install angular-digest-logger
+
 
