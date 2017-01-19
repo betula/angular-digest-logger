@@ -1,7 +1,7 @@
 {
   "name": "angular-digest-logger",
   "description": "AngularJS Digest loops logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "url": "https://github.com/betula/angular-digest-logger"
   },

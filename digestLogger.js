@@ -36,7 +36,6 @@
               log.push(action);
             }
             if (lastLogDate) {
-              log.push(date.getMinutes() + ':' + date.getSeconds());
               log.push((date.getTime() - lastLogDate.getTime()) + 'ms');
             }
             lastLogDate = date;
