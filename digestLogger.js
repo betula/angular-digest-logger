@@ -120,7 +120,7 @@
         return {
           enabled: _enabled
             ? true
-            : _useCookie && $document.cookie.indexOf(_cookieName) > -1
+            : _useCookie && $document[0].cookie.indexOf(_cookieName) > -1
         };
 
       }];
