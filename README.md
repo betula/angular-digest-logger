@@ -31,10 +31,7 @@ Enjoy!
     
 ## Installing
 
-You can install this package locally either with bower.
-
 ```bash
-# To install latest formal release 
-bower install angular-digest-logger
+npm install betula/angular-digest-logger#v1.0.0
 ```
 

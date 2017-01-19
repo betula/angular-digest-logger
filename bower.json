@@ -1,16 +1,8 @@
 {
   "name": "angular-digest-logger",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "main": [
-    "./dist/angular-digest-logger.js",
-    "./dist/angular-digest-logger.min.js",
-    "./dist/angular-digest-logger.min.js.map"
-  ],
-  "ignore": [
-    "/config",
-    "/test",
-    "/src",
-    "/gulpfile.js"
+    "./digestLogger.js"
   ],
   "dependencies": {
     "angular": "^1.3.0"
