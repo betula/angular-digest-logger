@@ -32,6 +32,6 @@ Enjoy!
 ## Installing
 
 ```bash
-npm install betula/angular-digest-logger#v1.0.0
+npm install betula/angular-digest-logger#v1.0.2
 ```
 
